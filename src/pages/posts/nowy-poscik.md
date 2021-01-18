@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: chuj dupa i kamieni kupa
 subtitle: lorem-ipsum
 date: '2021-01-18'
 thumb_img_alt: lorem-ipsum
